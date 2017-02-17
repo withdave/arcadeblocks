@@ -1,7 +1,10 @@
 # arcadeblocks
-Repository for original ArcadeBlocks HTML/Flash Arcade script
+
+Repository for the original ArcadeBlocks HTML/Flash Arcade script
 
 ArcadeBlocks is a free, open source arcade script created back in 2005.
+
+There is a branched version of this script, renamed "3arcade" available in my repository.
 
 
 ## Installation
