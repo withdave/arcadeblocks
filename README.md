@@ -1,14 +1,10 @@
 # arcadeblocks
 Repository for original ArcadeBlocks HTML/Flash Arcade script
 
-ARCADEBLOCKS
-==============
-
 ArcadeBlocks is a free, open source arcade script created back in 2005.
 
-------------
-INSTALLATION
-------------
+
+## Installation
 
 1. Upload the contents of the 'app' folder to the directory you want ArcadeBlocks to run from.
 
@@ -18,19 +14,21 @@ INSTALLATION
 
 4. Follow the instructions and then REMOVE install.php when you are done.
 
-5. ArcadeBlocks should now be up and running. You can now install any extra game packs you have purchased.
+5. ArcadeBlocks should now be up and running. You can now install any extra game packs you have downloaded.
 
    You can easily edit the look of ArcadeBlocks by changing the title.png and another.png images.
 
 6. If you want to change the look of the rating bar, you will need to open rate.fla in flash, then
 
    compile and re-upload the new swf file. Do not upload rate.fla to the server.
-   
 
-------------
-INCLUDED
-------------
+
+## Included
 
 Included with this app:
 - The application (in the app folder)
 - The Flash .fla file that holds the rating bar. You're free to edit this as you see fit.
+
+## For more information
+
+For more information please see http://3cc.org - there is also a game pack available for this app.
