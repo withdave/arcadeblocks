@@ -34,4 +34,4 @@ Included with this app:
 
 ## For more information
 
-For more information please see http://3cc.org - there is also a game pack available for this app.
+For more information please see https://withdave.com - there is also a game pack available for this app.
