@@ -1,3 +1,5 @@
+> :warning: **Inactive**: Archived as support for Adobe Flash Player has now come to an end.
+
 # arcadeblocks
 
 Repository for the original ArcadeBlocks HTML/Flash Arcade script
